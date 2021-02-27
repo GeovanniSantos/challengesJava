@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/challenges-java.iml" filepath="$PROJECT_DIR$/.idea/challenges-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/converter-coin/converter-coin.iml" filepath="$PROJECT_DIR$/converter-coin/converter-coin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estoque_produto_construtor/estoque_produto_construtor.iml" filepath="$PROJECT_DIR$/estoque_produto_construtor/estoque_produto_construtor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nota-aluno/nota-aluno.iml" filepath="$PROJECT_DIR$/nota-aluno/nota-aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/perfil/perfil.iml" filepath="$PROJECT_DIR$/perfil/perfil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produto-estoque/produto-estoque.iml" filepath="$PROJECT_DIR$/produto-estoque/produto-estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/raio-triangulo/raio-triangulo.iml" filepath="$PROJECT_DIR$/raio-triangulo/raio-triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/salario-funcionario/salario-funcionario.iml" filepath="$PROJECT_DIR$/salario-funcionario/salario-funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tamanho-retangulo/tamanho-retangulo.iml" filepath="$PROJECT_DIR$/tamanho-retangulo/tamanho-retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tamanho-triangulo/tamanho-triangulo.iml" filepath="$PROJECT_DIR$/tamanho-triangulo/tamanho-triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/verifica-triangulo-FATEC/verifica-triangulo-FATEC.iml" filepath="$PROJECT_DIR$/verifica-triangulo-FATEC/verifica-triangulo-FATEC.iml" />
+    </modules>
+  </component>
+</project>
